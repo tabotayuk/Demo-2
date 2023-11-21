@@ -10,3 +10,5 @@ resource "aws_instance" "example_instance" {
     Name = "ExampleInstance"  # Replace with your preferred instance name
   }
 }
+
+extra line 
