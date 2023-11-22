@@ -12,3 +12,5 @@ resource "aws_instance" "example_instance" {
 }
 
 extra line 
+
+code to create a new ec2 instance.
